@@ -1,13 +1,19 @@
 {
+    "0":{
+        "title": "I Ain't Drunk, I Just Been Drinkin'",
+        "author": "Pat Dailey",
+        "mid": "1:X21LHotvY9Y"
+    },
     "1":{
-        "mid": "1:NSFWsongID1"
+        "title": "Big Fat Bitch",
+        "author": "Zac Brown Band",
+        "mid": "2:341844"
     },
     "2":{
-        "title": "This is a NSFW song",
-        "author": "The NSFW band",
-        "mid": "1:NSFWsongID2"
+        "mid": "1:oJ5YUKIM1Kc"
     },
     "3":{
-        "mid": "1:NSFWsongID3"
+        "mid": "1:3nUQkL33C5w"
+    },
     }
 }
