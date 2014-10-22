@@ -58,7 +58,7 @@
             }
         };
 
-        bot.commands.OuchCommand = {
+        bot.commands.RickCommand = {
             command: 'rick',  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
             type: 'exact', //Specify if it can accept variables or not (if so, these have to be handled yourself through the chat.message
@@ -71,7 +71,7 @@
             }
         };
         
-        bot.commands.OuchCommand = {
+        bot.commands.ChrisCommand = {
             command: 'chris',  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
             type: 'exact', //Specify if it can accept variables or not (if so, these have to be handled yourself through the chat.message
@@ -84,7 +84,7 @@
             }
         };
 
-        bot.commands.OuchCommand = {
+        bot.commands.ChiverCommand = {
             command: 'chiver',  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
             type: 'exact', //Specify if it can accept variables or not (if so, these have to be handled yourself through the chat.message
@@ -97,7 +97,7 @@
             }
         };
         
-            bot.commands.OuchCommand = {
+            bot.commands.KaosfuryCommand = {
             command: 'kaosfury',  //The command to be called. With the standard command literal this would be: !bacon
             rank: 'user', //Minimum user permission to use the command
             type: 'exact', //Specify if it can accept variables or not (if so, these have to be handled yourself through the chat.message
