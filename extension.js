@@ -117,7 +117,7 @@
 		afkRankCheck: "ambassador",
 		motdEnabled: true,
 		motdInterval: 25,
-		motd: "This is the MotD, because it amuses me.",
+		motd: "Never eat broccoli with a stranger.",
 		filterChat: true,
 		etaRestriction: false,
 		welcome: true,
